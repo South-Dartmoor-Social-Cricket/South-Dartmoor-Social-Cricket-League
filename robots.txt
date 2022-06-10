@@ -1,4 +1,4 @@
-Sitemap: https://martinparkes.github.io/South-Dartmoor-Social-Cricket-League/sitemap.xml
+Sitemap: https://www.southdartmoorcricket.uk/sitemap.xml
 
 User-agent: *
 Disallow:
