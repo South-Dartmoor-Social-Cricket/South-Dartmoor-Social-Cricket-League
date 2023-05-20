@@ -2,4 +2,4 @@
 
 # Fixtures 2022
 
-\tableinput{}{/assets/data/2022fixtures.csv}
+\tableinput{}{/assets/data/fixtures.csv}

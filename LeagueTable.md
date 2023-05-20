@@ -2,4 +2,4 @@
 
 # League Table
 
-\tableinput{}{/assets/data/2022league.csv}
+\tableinput{}{/assets/data/league.csv}
